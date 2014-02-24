@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />             
+<meta name="language" content="ar">
+<meta name="author" content="prince 3">
+<meta name="publisher" content="prince 3">
+<meta name="copyright" content="prince 3">
+<meta name="page-type" content="لعبة متصفح ، العاب المتصفح">
+<meta name="page-topic" content="لعبة متصفح ، لعبة استراتيجية ، لعبة على الانترنت ، لعبة اونلاين">
+<meta name="audience" content="all">
+<meta name="Expires" content="never">
+<meta name="Keywords" content="ikariama, لعبة استراتيجية , العب مجانا , لعبة على الاننرنت , لعبة حربية , ار بي جي, لعبة متصفح , لعبة على الشبكة, لعب">
+<meta name="Description" content="ikariama لعبة متصفح مجانية. يتمثل التحدي للاعب في قيادة شعبه من خلال العالم القديم. لبناء المدن والتجارة والانتصار على الجزر.">  
+<meta name="robots" content="index,follow">
+<meta name="Revisit" content="After 14 days"> 
+<title>ikariama - لعبة المتصفح المجانية</title>
+<link href="istyle.css" rel="stylesheet" type="text/css" media="screen">
+<script src="common.js" type="text/javascript"></script>
+</head>
+<body dir="rtl">
+<div id="headback">
+<div id="headlogo"></div>
+<!--Main div-->
+<div id="main">
+<div>
+</div>
+<div id="text">
+ <h1>IKARIAMA,إيكارياما:سكربت التثبيت.</h1>
+<?php if(!isset($_GET['o'])){?>
+ <ul class="desc">
+ <li>إيكارياما ليس لها أي علاقة مع اللعبة <a title="prince 3" id="gflink" target="_blank" href="http://ae.ikariam.com">إيكاريام</a>, هي مجرد محاكاة للعبة الأصلية.</li>
+ <li>عند إستعمالك إيكارياما أنت وحدك المسؤول عن النتائج القانونية لهذا الاستعمال.</li>
+ <li>تمت برمجة اللعبة لأهداف أكاديمية لا غير, فريق البرمجة غير مسؤول عن النشر الغير قانوني للعبة.</li>
+ <li style="color:#0000FF">للإستعمال الأمثل للعبة يرجى إستخدام google chrome.</li>
+ <li>تحياتي...</li>
+ </ul>
+<form action="index.php" method="get" id="dataform">
+<input type="hidden" name="o" value="1">
+<input type="submit" class="button" value="Submit">
+</form>
+<?php }else{
+switch($_GET['o']){
+		case 1:
+		include("templates/config.php");
+		break;
+		case 2:
+		include("templates/createdb.php");
+		break;
+		case 3:
+		include("templates/end.php");
+		break;
+	}
+}?>
+<h2 align="left"><a title="prince 3" id="gflink" target="_blank" href="mailto:khatibe_30@hotmail.fr">Prince 3</a></h2>
+</div><br/>
+</div>
+<!--Main div ends-->
+<div id="footer"></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<?php
+//╔════════════════════════════════════════════════════╗
+//║        DO NOT REMOVE OR CHANGE THIS SECTION        ║
+//║                                                    ║
+//║Filename : Config.php                               ║
+//║Version  : 0.1                                      ║
+//║Author   : Prince 3                                 ║
+//║E-MAIL   : khatibe_30@hotmail.fr                    ║
+//║Copyright: Ikariama(c) 2010. All rights reserved.   ║
+//╚════════════════════════════════════════════════════╝
+?>
+<?php
+define("TRACK_USR", true);         
+define("COOKIE_EXPIRE", 60*60*24*7);
+define("COOKIE_PATH", "/");
+define("SQL_SERVER", "%SSERVER%");
+define("SQL_USER", "%SUSER%");
+define("SQL_PASS", "%SPASS%");
+define("SQL_DB", "%SDB%");
+define("TB_PREFIX", "%PREFIX%");
+
+define("USER",0);
+define("PLUS", 1);
+define("ADMIN",2);
+?>

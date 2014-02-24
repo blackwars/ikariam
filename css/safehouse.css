@@ -1,0 +1,66 @@
+#safehouse
+.buildingDescription{background:url(../img/buildings/y100/safehouse.gif) no-repeat left 10px}#safehouse #container #mainview #buildForm
+.button{width:122px;color:#542C0F}#safehouse #container #mainview #buildForm
+.button_inactive{width:122px;color:gray;margin:10px
+auto}#safehouse #container #mainview .content ul#units li.unit
+ul.resources{text-align:right}#safehouse #container #mainview .content ul#units li.unit ul.resources
+li.gold{float:none;right:200px}#safehouse #container #mainview .content ul#units li.unit ul.resources
+li.glass{float:none;right:200px}#safehouse #container #mainview .content ul#units li.unit ul.resources
+li.time{float:none;right:260px;position:absolute}#safehouse #container #mainview td.subject
+a{color:#542c0f;text-decoration:underline}#safehouse #container #mainview
+div.spyinfo{background:url(../img/spy-test.jpg) no-repeat 10px -10px;position:relative;border:1px
+solid #f3ddb2;padding-bottom:15px;margin:1px}#safehouse #container #reportInboxLeft .content
+ul{padding-right:10px}#safehouse #unitConstructionList
+.currentUnit{background-image:url(../img/characters/military/unitsprites_x34_y35.gif);background-position: -577px 50%;border-bottom:1px solid #FFFBDB;height:35px;padding-right:34px;position:relative;width:0;margin:4px
+4px 10px 8px}#safehouse #unitConstructionList
+.amount{font-weight:bold;padding:4px
+0;width:135px;margin-right:8px}#safehouse
+.whiteLine{border:1px
+solid #FEFBE8;color:#FEFBE8}#safehouse #unitConstructionList .currentUnit
+.time{font-size:11px;font-weight:bold;right:160px;position:absolute;top:25px;width:50px}#safehouse #unitConstructionList .currentUnit
+.listTime{font-size:11px;font-weight:bold;right:43px;position:absolute;top:25px;width:160px}#safehouse #unitConstructionList .currentUnit
+.progressbar{background-color:#FEFBE8;background-image:url(../img/input/textfield.gif);background-position:center bottom;border:1px
+solid #775726;height:10px;margin-right:8px;overflow:hidden;width:100px}#safehouse #container #mainview .spyinfo
+li{padding:5px
+25px 5px 0px;font-weight:bold}#safehouse #container #mainview .spyinfo
+li.city{background:url(../img/icon-city2.gif) no-repeat right center}#safehouse #container #mainview .spyinfo
+li.status{background:url(../img/icon-status-small.gif) no-repeat 2px center;width:260px}#safehouse #container #mainview .spyinfo
+ul{margin-right:130px}#safehouse #container #mainview ul
+li.risk{position:relative}#safehouse #container #mainview ul li.risk
+div.percentage{width:30px;text-align:right;position:absolute;top:18px;right:240px;font-weight:bold;display:inline}#safehouse #container #mainview .spyinfo
+div.missionButton{width:54px;height:50px;position:absolute;top:10px;right:455px}#safehouse #container #mainview .spyinfo div.missionButton
+a{background:url(../img/icon-mission.gif) no-repeat center top;display:block;text-align:center;padding-top:35px;color:#542c0f;margin-top:2px;text-decoration:none}#safehouse #container #mainview .spyinfo div.missionButton a:hover{background-color:#fff5d6;font-weight:bold}#safehouse #container #mainview .spyinfo
+div.missionAbort{width:75px;height:50px;position:absolute;top:10px;right:555px}#safehouse #container #mainview .spyinfo div.missionAbort
+a{background:url(../img/icon-missionAbort.gif) no-repeat center top;display:block;text-align:center;padding-top:35px;color:#542c0f;margin-top:2px;text-decoration:none}#safehouse #container #mainview .spyinfo div.missionAbort a:hover{background-color:#fff5d6;font-weight:bold}#safehouse #container #mainview
+table.spyMessages{margin-top:10px}#safehouse #container #mainview .spyinfo
+table.spyMessages{margin-top:10px;width:400px;font-size:11px}#safehouse #container #mainview .spyinfo
+table.table01{margin:5px
+0px}#safehouse #container #mainview table.spyMessages
+td.icon{width:20px;height:20px;background-position:center;background-repeat:no-repeat}#safehouse #container #mainview table.spyMessages
+td.time{background-image:url(../img/icon-clock.gif)}#safehouse #container #mainview table.spyMessages
+td.money{background-image:url(../img/gold.gif)}#safehouse #container #mainview table.spyMessages
+td.garrison{background-image:url(../img/icon-spyreport-garrison.gif)}#safehouse #container #mainview table.spyMessages
+td.arrived{background-image:url(../img/icon-city2.gif)}#safehouse #container #mainview table.spyMessages
+td.return{background-image:url(../img/icon-backx20.gif)}#safehouse #container #mainview table.spyMessages
+td.message{background-image:url(../img/icon-message.gif)}#safehouse #container #mainview table.spyMessages
+td.fleet{background-image:url(../img/icon-spyreport-fleet.gif)}#safehouse #container #mainview table.spyMessages
+td.research{background-image:url(../img/icon-spyreport-research.gif)}#safehouse #container #mainview table.spyMessages
+td.online{background-image:url(../img/icon-status-small.gif)}#safehouse #container #mainview table.spyMessages
+td.spy{}#safehouse #container #mainview table.spyMessages
+td.subject{padding:3px
+5px;text-align:right}#safehouse #container #mainview .spyinfo
+a{color:#542c0f}#safehouse #container #mainview .spyinfo a:hover{color:#DF5843}#safehouse #container #mainview .spyinfo table.spyMessages
+a{color:#542c0f;text-decoration:none;display:block}#safehouse #container #mainview .spyinfo table.spyMessages a:hover{text-decoration:underline}#safehouse #mainview
+.buildingDescription{height:auto;margin-bottom:15px}#safehouse #container #mainview
+.unit{background:transparent url(../img/interface/bg_build.gif) repeat-y scroll left top;height:130px;padding:10px
+0px;position:relative;min-height:0px}#safehouse #container #mainview .unit
+.forminput{right:545px;position:absolute;top:32px;width:100px}#safehouse #container
+#spyCount{background:transparent none repeat scroll 100% 50%;border:medium none;color:#906646;font-size:18px;margin-right:0pt;padding-right:0pt;text-align:left;width:30px}#safehouse #container
+.summary{color:#906646;font-size:18px;text-align:right}#safehouse #container #mainview .content ul#units li.unit
+ul.resources{position:absolute;width:400px}#safehouse #container #mainview .content ul#units li.unit ul.resources
+li{float:right}#safehouse #container #mainview .content ul#units li.unit ul.resources
+li.time{width:100px}#safehouse #container #mainview .content ul#units li.unit ul.resources
+li.gold{float:left}#safehouse #container #mainview
+.unit{height:130px}#safehouse #container #mainview
+div.spyinfo{background-position:98% -10px}#safehouse #container #mainview ul
+li.risk{width:250px}

@@ -1,0 +1,7 @@
+#renameCity{margin-bottom:20px}#renameCity
+.oldCityName{line-height:30px;color:#580404;font-weight:bold}#renameCity .oldCityName
+.textLabel{float:right;width:200px;text-align:left;margin-left:10px;font-weight:normal}#renameCity
+.newCityName{}#renameCity .newCityName
+label{float:right;width:200px;text-align:left;margin-left:10px}#renameCity .newCityName
+.button{display:block;margin:10px
+auto}
